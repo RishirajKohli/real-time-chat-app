@@ -1,4 +1,4 @@
-## Socket.io based chat application that lets you join rooms and chat with multiple people in real time. Built using Node.js and Socket.io
+## Websockets based chat application that lets you join rooms and chat with multiple people in real time. Built using Socket.io and Node.js
 
 ### Local Setup
 
